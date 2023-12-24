@@ -1,16 +1,16 @@
-﻿//范明明直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+﻿//范明明直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //6566直播：https://w6566.github.io/tvlive/box/live/live.txt
-//老友直播：https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
-
+//老友直播：https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
+//加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
 {
 "spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;efb86a0831e4de3beac0045d23ecbd01",
 
 
-"lives":[{"name":"老友直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
+"lives":[{"name":"老友直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
 
-{"name":"IPV6直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://kkgithub.com/ll996075dd/tvbox/blob/main/api/lib/live.txt"},
+{"name":"IPV6直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/ll996075dd/tvbox/main/api/lib/live.txt"},
 {"name":"6566直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://w6566.github.io/tvlive/box/live/live.txt"},
-{"name":"范明明直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"范明明直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"番茄•综合","type":0,"url":"http://fanqie.gq/a/1701859592.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -190,12 +190,12 @@
         "💦讯维云盘": "https://pan.xwbeta.com"
       }
     },
-//https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/js/drpy.js
-//https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/blob/master/js/007%E5%BD%B1%E8%A7%86.js
+//https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/js/drpy.js
+//https://ghproxy.net/https://github.com/gaotianliuyun/gao/blob/master/js/007%E5%BD%B1%E8%A7%86.js
 
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/myalist.json"},
 
-{"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+{"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_4KHDR","name":"磁力 | 4KHDR[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"csp_WoGG","name":"弹幕 | 玩偶哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wogg.xyz/", "timeout":30},
