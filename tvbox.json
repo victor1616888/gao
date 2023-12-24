@@ -17,6 +17,124 @@
 //"wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
 "wallpaper": "https://bing.img.run/rand.php",
 
+
+"drive": {
+        "default": 2,
+        "data": [
+            {
+                "name": "🌊七米蓝",
+                "server": "https://al.chirmyram.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 1
+            },
+            {
+                "name": "🏓小雅",
+                "server": "http://alist.xiaoya.pro",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 2
+            },
+            {
+                "name": "🎧个人",
+                "server": "https://alist.azad.asia/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 3
+            },
+            {
+                "name": "🐉神族九帝",
+                "server": "https://alist.shenzjd.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 4
+            },
+            {
+                "name": "✨星梦",
+                "server": "https://pan.bashroot.top",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 5
+            },
+            {
+                "name": "💫触光",
+                "server": "https://pan.ichuguang.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 6
+            },
+            {
+                "name": "👐雨呢",
+                "server": "https://pan.clun.top/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 7
+            },
+            {
+                "name": "🧬杜比",
+                "server": "https://dubi.tk",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 8
+            },
+            {
+                "name": "🎧听闻网盘",
+                "server": "https://wangpan.sangxuesheng.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": false,
+                "id": 9
+            },
+            {
+                "name": "🤮布满灰尘",
+                "server": "https://pan.baiblog.ren/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 10
+            },
+            {
+                "name": "☃姬路白雪",
+                "server": "https://pan.jlbx.xyz",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 11
+            }
+        ]
+    },
+
+
 "sites":[
 {"key": "csp_xp_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 
