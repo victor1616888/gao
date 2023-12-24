@@ -1,18 +1,5 @@
 ﻿[
 {
-"name": "雨呢1",
-"server": "https://pan.clun.top/",
-"startPage": "/",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-
-
-
-{
 "name": "小鸭",
 "server": "http://shicheng.wang:555/",
 "startPage": "/",
@@ -49,6 +36,16 @@
         "showAll" : false,
         "search" : true
     },
+
+    {
+        "name" : "🌊雨呢盘",
+        "server" : "https://pan.clun.top/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+
+
         {
         "name" : "👍ECVE",
         "server" : "https://pan.ecve.cn",
