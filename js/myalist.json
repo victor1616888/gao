@@ -42,6 +42,8 @@
         "server" : "https://pan.clun.top/",
         "startPage" : "/",
         "showAll" : false,
+        "user":"clun",
+       "pass":"clun",
         "search" : true
     },
 
