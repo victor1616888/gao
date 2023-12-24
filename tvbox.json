@@ -314,7 +314,7 @@
 {"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/相声随身听.js"},
 {"key":"drpy_js_评书随身听","name":"评书 | 评书随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/评书随身听.js"},
 {"key":"drpy_js_武享吧","name":"格斗 | 武享吧[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/武享吧.js"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/myalist.json"},
 
 {"key":"drpy_js_58动漫","name":"动漫 | 58动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
