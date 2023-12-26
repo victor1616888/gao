@@ -127,3 +127,5 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 尽自己所能更新，不保证配置的有效性和时效性。
 
+蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release   。
+
