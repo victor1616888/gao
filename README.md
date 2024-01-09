@@ -129,3 +129,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release   。
 
+直播源搜索
+https://foodieguide.com/iptvsearch/
+
+
