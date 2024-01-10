@@ -133,8 +133,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 正式版 电视版：2.1.8
 下载地址：
-        电视版-java-32(推荐)👉点击下载
-        电视版-java-64👉点击下载
+        
         电视版-python-32👉https://kkgithub.com/FongMi/Release/blob/main/apk/release/leanback-python-armeabi_v7a.apk
         电视版-python-64👉https://kkgithub.com/FongMi/Release/blob/main/apk/release/leanback-python-arm64_v8a.apk
 
