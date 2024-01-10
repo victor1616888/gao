@@ -131,33 +131,8 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release   。说明：蜂蜜影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。
 
-正式版
-
-    手机版：2.1.8
-    更新内容：
-        [EXO]
-        修正 dts 讀取
-        [點播]
-        修正 ext 解析
-        移除 clan 轉換
-        [直播]
-        優化 m3u 解析
-    下载地址：
-        手机版-java-32👉点击下载
-        手机版-java-64(推荐)👉点击下载
-        手机版-python-32👉点击下载
-        手机版-python-64👉点击下载
-
-    电视版：2.1.8
-    更新内容：
-        [EXO]
-        修正 dts 讀取
-        [點播]
-        修正 ext 解析
-        移除 clan 轉換
-        [直播]
-        優化 m3u 解析
-    下载地址：
+正式版 电视版：2.1.8
+下载地址：
         电视版-java-32(推荐)👉点击下载
         电视版-java-64👉点击下载
         电视版-python-32👉https://kkgithub.com/FongMi/Release/blob/main/apk/release/leanback-python-armeabi_v7a.apk
