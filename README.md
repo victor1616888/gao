@@ -97,6 +97,8 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （26）唐三：https://gh.t4tv.hz.cz/newtang.bmp
 
+ (27) 9211优质大仓库：https://github.com/hd9211/Tvbox1/blob/main/%E4%BC%98%E8%B4%A8.json
+ 
 4. 随机轮换壁纸：
 
 （1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
