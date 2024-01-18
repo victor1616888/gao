@@ -191,6 +191,52 @@
 					"name": "雨呢盘",
 					"server": "https://pan.clun.top/"
 				},
+
+
+
+{
+            "name": "小雅1💻",
+            "search": true,
+            "searchable": true,
+            "server": "http://movie.wangzm.tk"
+          },
+{
+                "name": "🌊七米蓝",
+                "server": "https://al.chirmyram.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 1
+            },
+            {
+                "name": "🏓小雅",
+                "server": "http://alist.xiaoya.pro",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 2
+            },
+{
+      "name": "网盘1",
+      "server": "http://223.167.75.227:5678/"
+    },
+    {
+      "name": "网盘2",
+      "server": "http://123.249.94.196:5678/"
+    },
+    {
+      "name": "网盘3",
+      "server": "http://101.204.33.244:5678/"
+    },
+
+{"name":"九T-4K","server":"https://drive.9t.ee/","user":" ","pass":"123402033"},
+{"name":"白雪","server":"https://pan.jlbx.xyz/","user":"alist","pass":"alist"},
+
+
 {
 					"name": "雪盘",
 					"server": "https://pan.jlbx.xyz/"
