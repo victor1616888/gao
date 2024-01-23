@@ -11,7 +11,7 @@
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
 //酒店源：https://ghproxy.net/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
-//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png
+//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png=https://epg.erw.cc/api/diyp/?ch={name}&date={date}
 {
 "spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
 //"spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;2924f2b9e4587a8057af85af1f380be1",
@@ -23,7 +23,7 @@
 // "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "warningText": "自用综合接口，完全免费使用，请勿传播！",
 
-"lives":[{"name":"老友直播","playerType": 1,"type":0,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
+"lives":[{"name":"老友直播","playerType": 1,"type":0,"epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
 {"name":"Meroser内蒙V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"},
 {"name":"范明明上海V6","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"陕西移动V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://ghproxy.net/https://github.com/sxttux/TVBox/blob/main/tvIPv6.txt"},
@@ -294,7 +294,7 @@
       "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
       "jar": "http://www.wya6.cn/tz/wyalqd.php"
     },
-    {
+// {
       "key": "网盘配置",
       "name": "无意云｜配置中心",
       "type": 3,
