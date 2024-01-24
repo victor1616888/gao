@@ -1,5 +1,5 @@
 ﻿//收集自各大佬的公开资源，自用综合接口，完全免费使用，请勿传播！如有侵权，请联系删除。
-//建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用panda大佬的jar包，如有需要可自行进行调整。
+//本接口建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用panda大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
@@ -14,7 +14,9 @@
 
 
 {
-  "spider": "https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+ // "spider": "https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+
+"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
@@ -415,7 +417,7 @@
 
 
 ]}},
-
+{"key": "狐狸","name": "🦊狐狸┃4k", "type": 3,"api": "csp_AppYsV2",  "searchable": 1, "quickSearch": 1,  "filterable": 1, "ext": "https://www.kuin.one/api.php/app/"}, 
 {"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
 {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
@@ -427,6 +429,37 @@
 {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4K电影网.js"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南坊","name":"☀南坊┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
+
+{"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/FreeOK.json"},
+{"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/柒月影视.json"},
+ {"key": "csp_TVB","name": "TVB云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/TVB影院.json"},
+ {"key": "csp_圣城","name": "圣城影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/圣城影院.json"},
+ {"key": "csp_007","name": "凌漆影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/007影院.json"},
+ {"key": "csp_土豪","name": "土豪影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/土豪tv.json"},
+ {"key": "csp_兔年","name": "yyds","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/YYDS影视.json"},
+{"key": "csp_真不卡","name": "真不卡影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/真不卡影视.json"},
+{"key": "csp_xBPQ_66","name": "66影院","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/66影院.json"}, 
+ {"key": "csp_蛋蛋","name": "蛋蛋影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/蛋蛋影院.json"},
+{"key": "csp_黑狐","name": "黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/黑狐影院.json" },
+{"key": "csp_夜光","name": "夜光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/夜光TV.json"},
+{ "key": "csp_臭蛋","name": "臭蛋蛋影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/臭蛋蛋影视.json" },
+{"key": "csp_苹果","name": "苹果影视","type": 3,"api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json//苹果影院.json" },
+ {"key": "csp_米爱","name": "米爱影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/米爱影院.json"},
+{"key": "csp_毛子","name": "毛子影视","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/毛毛子影视.json"},
+{"key":"北川影视","name":"💧北川影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/北川影视.json"},
+{"key":"策驰影院","name":"💧策驰影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/策驰影视.json"},
+
+{"key": "csp_kc","name": "🍵┃酷茶高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/酷茶影视.json"},
+{"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"}, 
+{"key":"csp_三亚","name":"🦢三亚┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key": "app_快看","name": "️💕快看采集","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","港台综艺"]},	
+{"key":"XBPQ_ph","name":"🐯┃胖虎┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/胖虎影视.json"}, 
+{"key":"csp_slgq","name":"🏵️石榴蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/石榴影视.json"}, 
+{"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/" },
+
+
+
+
 
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"九六","name":"🎀九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
