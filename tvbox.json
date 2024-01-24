@@ -1,5 +1,5 @@
 ﻿//收集自各大佬的公开资源，自用综合接口，完全免费使用，请勿传播！如有侵权，请联系删除。
-//本接口建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用panda大佬的jar包，如有需要可自行进行调整。
+//本接口建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用fan大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
@@ -9,23 +9,23 @@
 //老友直播：https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
-
+//EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
 
 
 
 {
 
-"spider": "https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
+//"spider": "https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
  // "spider": "https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
 //"spider": "https://gitee.com/yobnn/tvbox/raw/master/tvbox/YSC.jar;md5;3f08f3d7e02cdf04894f1befeefd0d4b",
-//"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
+"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
       "name": "老友直播",
       "playerType": 1,
       "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"
     },
@@ -495,7 +495,7 @@
 {"key":"找資源","name":"阿里 | 找資源[jar]","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 {"key":"Funletu","name":"夸克  | 趣盘搜[jar]","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json"},
 
-//磁力资源区
+//香雅情jar配置磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
