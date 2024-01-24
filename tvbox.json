@@ -1034,76 +1034,7 @@
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn"
     },
-    {
-      "key": "忍者",
-      "name": "🐜┃忍者┃App",
-      "type": 3,
-      "api": "csp_MYYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://rzys.xyz"
-    },
-    {
-      "key": "迪迪",
-      "name": "🌈┃迪迪┃App",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "旧梦影视（APP）",
-      "name": "🌙旧梦影视（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://43.139.139.17:4433/api.php/app/"
-    },
-    {
-      "key": "大米星球（APP）",
-      "name": "🌙大米星球（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://dmdy2.vip/api.php/app/"
-    },
-    {
-      "key": "HOHO（APP）",
-      "name": "🌙HOHO（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://hoho.tv/api.php/app/"
-    },
-    {
-      "key": "落攻阁（APP）",
-      "name": "🌙落攻阁（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.lggys.cn/api.php/app/"
-    },
-    {
-      "key": "空气屋（APP）",
-      "name": "🌙空气屋（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.airfun.fun/xgapp.php/v2/"
-    },
-    {
-      "key": "布衣（APP）",
-      "name": "🌙布衣（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://byyy5.com/api.php/app/"
-    },
-    {
-      "key": "明帝（APP）",
-      "name": "🌙明帝（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://ys.md214.cn/api.php/app/"
-    },
+   
     {
       "key": "速看100（APP）",
       "name": "🌙速看100（APP）",
@@ -1111,20 +1042,7 @@
       "api": "csp_AppYsV2",
       "ext": "https://sk100.tv/api.php/app/"
     },
-    {
-      "key": "木白（APP）",
-      "name": "🌙木白（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
-    },
-    {
-      "key": "阿里（APP）",
-      "name": "🌙阿里（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://aliys.cn:91/api.php/v1.vod"
-    },
+   
     {
       "key": "看剧吧（APP）",
       "name": "🌙看剧吧（APP）",
@@ -1133,74 +1051,11 @@
       "ext": "http://app.ishen520.com/api.php/v1.vod "
     },
     {
-      "key": "宝仙（APP）",
-      "name": "🌙宝仙（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://webdillo.com/api.php/app/"
-    },
-    {
-      "key": "何以（APP）",
-      "name": "🌙何以（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://www.heyik.cn/api.php/v1.vod"
-    },
-    {
       "key": "少泽影客（APP）",
       "name": "🌙少泽影客（APP）",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://yk.shaozeyy.com/api.php/app/"
-    },
-    {
-      "key": "无限影视网（APP）",
-      "name": "🌙无限影视网（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.wxtv.net/api.php/app/"
-    },
-    {
-      "key": "TV酷（APP）",
-      "name": "🌙TV酷（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
-      "key": "天天美剧网（APP）",
-      "name": "🌙天天美剧网（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.ttmja.com/api.php/app/"
-    },
-    {
-      "key": "迷你库（APP）",
-      "name": "🌙迷你库（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "真爱（APP）",
-      "name": "🌙真爱（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
-    },
-    {
-      "key": "悟空（APP）",
-      "name": "🌙悟空（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://dapi.pntao.com/api.php/v1.vod "
-    },
-    {
-      "key": "君离（APP）",
-      "name": "🌙君离（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://jlys6.top/mogai_api.php/v1.vod"
     },
     {
       "key": "易搜",
