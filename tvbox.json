@@ -537,7 +537,10 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/云盘资源分享.json"
     },
-    {
+    {"key":"K歌库","name":"🎤K歌【选[音轨]切换原音/伴奏】","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+
+ {
       "key": "csp_XYQHikerAL_阿里云盘网",
       "name": "📀阿里云盘(搜索)",
       "type": 3,
