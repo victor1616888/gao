@@ -514,6 +514,20 @@
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
+      "key": "配置中心",
+      "name": "阿里云盘配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "http://127.0.0.1:9978/file/TV/token.json"
+    },
+ 
+{
       "key": "AliShare",
       "name": "阿里云盘",
       "type": 3,
@@ -545,9 +559,9 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/阿里云盘网.json"
     },
-    {
+ {
       "key": "七夜",
-      "name": "七夜",
+      "name": "阿里 | 七夜[jar]",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -555,7 +569,7 @@
       "ext": "http://127.0.0.1:9978/file/TV/token.json",
       "timeout": 30
     },
-    {
+ {
       "key": "盤搜索",
       "name": "盤搜索",
       "type": 3,
@@ -711,17 +725,7 @@
       "changeable": 1,
       "timeout": 30
     },
-    {
-      "key": "csp_WoGG",
-      "name": "弹幕 | 玩偶哥哥[jar]",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$https://wogg.xyz/",
-      "timeout": 30
-    },
+   
     {
       "key": "csp_Wobg",
       "name": "弹幕 | 玩偶表哥[jar]",
@@ -987,16 +991,7 @@
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "https://weixine.net/js/changmeng.js"
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "九六",
       "name": "🎀九六┃直连",
@@ -1268,19 +1263,7 @@
       "timeout": 30,
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$https://662688.xyz"
     },
-    {
-      "key": "配置中心",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "http://127.0.0.1:9978/file/TV/token.json"
-    },
+    
     {
       "key": "csp_WoGG",
       "name": "哥哥",
@@ -1425,15 +1408,7 @@
       "ext": "https://www.bdys03.com/$$$null$$$1",
       "timeout": 30
     },
-    {
-      "key": "NanGua",
-      "name": "南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-    },
+    
     {
       "key": "蝴蝶",
       "name": "蝴蝶",
@@ -2235,16 +2210,6 @@
       "timeout": 30
     },
     {
-      "key": "七夜",
-      "name": "阿里 | 七夜[jar]",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json",
-      "timeout": 30
-    },
-    {
       "key": "盤搜索",
       "name": "阿里 | 盤搜索[jar]",
       "type": 3,
@@ -2382,19 +2347,7 @@
         "ratio": 3.8
       }
     },
-    {
-      "key": "配置中心",
-      "name": "配置 | 中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "http://127.0.0.1:9978/file/TV/token.json"
-    },
+   
     {
       "key": "荐片弹幕版",
       "name": "弹幕 | 荐片[jar]",
@@ -3146,16 +3099,7 @@
       "ext": "http://127.0.0.1:9978/file/TV/token.json",
       "timeout": 30
     },
-    {
-      "key": "七夜",
-      "name": "阿里 | 七夜[jar]",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json",
-      "timeout": 30
-    },
+    
     {
       "key": "盤搜索",
       "name": "阿里 | 盤搜索[jar]",
