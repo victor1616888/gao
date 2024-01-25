@@ -214,7 +214,17 @@
   ],
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
-    {
+   {
+      "key": "萌米",
+      "name": "萌米┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
+  {
       "key": "csp_xp_yinfans",
       "name": "💥音范丝4K",
       "type": 3,
@@ -505,16 +515,7 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-    {
-      "key": "萌米",
-      "name": "萌米┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
+   
     {
       "key": "AliShare",
       "name": "阿里云盘",
@@ -525,6 +526,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
+      "jar": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"
     },
     {
