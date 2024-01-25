@@ -521,12 +521,13 @@
       "name": "阿里云盘",
       "type": 3,
       "api": "csp_AliShare",
+     "jar": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+     
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"
     },
     {
@@ -1548,6 +1549,7 @@
       "name": "弹幕 | 阿里云盘分享[jar]",
       "type": 3,
       "api": "csp_AliShare",
+   "jar": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
