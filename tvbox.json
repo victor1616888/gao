@@ -31,7 +31,6 @@
     {
       "name": "Meroser内蒙V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -40,7 +39,6 @@
     {
       "name": "范明明上海V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1,
@@ -50,7 +48,6 @@
     {
       "name": "陕西移动V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -59,7 +56,6 @@
     {
       "name": "江苏移动V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -68,7 +64,6 @@
     {
       "name": "王健海南V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -77,7 +72,6 @@
     {
       "name": "惊喜v4v6多线",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
       "playerType": 1,
@@ -87,7 +81,6 @@
     {
       "name": "fenxp上海V6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -96,7 +89,6 @@
     {
       "name": " Q线路v4v6直播",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
       "playerType": 1,
@@ -106,7 +98,6 @@
     {
       "name": "mcpv4v6多路",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
       "playerType": 1,
@@ -116,7 +107,6 @@
     {
       "name": "乐享多线v6",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -125,7 +115,6 @@
     {
       "name": "范明明IPV4",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/domainv6.m3u",
       "playerType": 1,
@@ -135,7 +124,6 @@
     {
       "name": "酒店源",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
@@ -144,7 +132,6 @@
     {
       "name": "番茄•综合",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "http://fanqie.gq/a/1701859592.txt",
       "playerType": 1,
@@ -154,7 +141,6 @@
     {
       "name": "Ray•综合",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "https://xhdwc.tk/tvlive.txt",
       "playerType": 1,
@@ -201,7 +187,6 @@
     },
     {
       "name": "俊于•综合",
-      "ua": "okhttp/3.15",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType": 1,
