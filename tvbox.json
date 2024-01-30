@@ -512,9 +512,9 @@
       "ext": "http://127.0.0.1:9978/file/TV/token.json"
     },
  
-{
+ {
       "key": "AliShare",
-      "name": "阿里云盘",
+      "name": "阿里云盘分享[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -524,6 +524,8 @@
       "timeout": 60,
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"
     },
+
+
     {
       "key": "csp_XYQHikerAL_云盘资源分享",
       "name": "📀云盘资源分享(搜索)",
@@ -1021,18 +1023,7 @@
       "timeout": 60,
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.db.gz"
     },
-    {
-      "key": "AliShare",
-      "name": "阿里云盘分享",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"
-    },
+    
     {
       "key": "ThunderShare",
       "name": "迅雷云盘分享",
@@ -2167,18 +2158,7 @@
       "timeout": 60,
       "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.db.gz"
     },
-    {
-      "key": "AliShare",
-      "name": "阿里云盘分享[jar]",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"
-    },
+   
     {
       "key": "ThunderShare",
       "name": "弹幕 | 迅雷云盘分享[jar]",
