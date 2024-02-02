@@ -1,4 +1,5 @@
 FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+
 个人自用精选仓库：https://github.com/victor1616888/gao/blob/master/storeHouse.json  。多仓配置，影视仓、蜂蜜影视、catbox均可以使用。
 个人自用精选单线路：https://github.com/victor1616888/gao/blob/master/tvbox.json  。所有tvbox版本均可以使用。
 
@@ -96,14 +97,6 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 尽自己所能更新，不保证配置的有效性和时效性。
 
 蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release   。说明：蜂蜜影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。
-
-正式版 电视版：2.1.8
-下载地址：
-        
-        电视版-python-32👉https://kkgithub.com/FongMi/Release/blob/main/apk/release/leanback-python-armeabi_v7a.apk
-        电视版-python-64👉https://kkgithub.com/FongMi/Release/blob/main/apk/release/leanback-python-arm64_v8a.apk
-
-
 直播源搜索
 https://foodieguide.com/iptvsearch/
 
